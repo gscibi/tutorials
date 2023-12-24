@@ -14,3 +14,4 @@ Topics:
 
 ## Sources and Inspiration
 - Statistics and Machine Learnign in Python (Release 0.3 beta); Edouard Duchesnay, Tommy Löfstedt, Feki Younes. 
+- https://ademos.people.uic.edu/Chapter23.html#4_determining_stationarity
